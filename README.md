@@ -1,4 +1,4 @@
-#Template Linked List
+# Template Linked List
 Overview
 ********
 Usual Linked List implementation in C must have specific type of data to be held. In case if
@@ -23,7 +23,7 @@ How it’s works
 ****************
 First the header needs to be included:
 
-# include "TemplatedLinkedList.h"
+#include "TemplatedLinkedList.h"
 
 After user need to declare in the same way as global variable will be:
 
