@@ -23,7 +23,7 @@ How it’s works
 ****************
 First the header needs to be included:
 
-#include "TemplatedLinkedList.h"
+# include "TemplatedLinkedList.h"
 
 After user need to declare in the same way as global variable will be:
 
