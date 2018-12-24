@@ -1,2 +1,4 @@
 # Binary Tree
-# Variant Linked List
+# Generic Linked List
+# Hash Table
+# Queue
